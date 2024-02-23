@@ -30,7 +30,17 @@ Har du allerede Slack-bruker tilknyttet jobb vil den ikke fungere på alle kanal
 
 Tenk deg om to ganger ved bruk av mentions; det er ikke alle beskjeder som trenger å bli sendt som varsel til alle i kanalen.
 
-## Opprette ny kanal
+## Kanaler og opprettelse av nye kanaler
+
+Kanaler alle er på og blir meldt inn i:
+
+* #annonsering: informasjon fra trenerne om økter og annet samt påmelding foregår her.
+* #general: Om du vil spørre eller fortelle om noe og vil nå alle, eller ikke finner annen passende chat til det er dette kanalen å gjøre det på. 
+* #sosial-løpetur: Her kan en avtale sosiale løpeturer utenom treningene.
+
+For å være sikker på at du får med info fra kanalene over kan du skru på varslinger på de. Høyreklikk kanalnavnet, velg change notifications og velg å sende varslinger på alle nye meldinger.
+
+Se ellers listen over kanaler, trykk Channels, Manage og Browse channels.
 
 Skal du opprette en ny kanal, husk på:
 
