@@ -1,6 +1,6 @@
 # Løpskalender
 
-Mange i gruppa liker å løpe løp for å teste formen. Under kan du få en oversikt over noen av disse løpene, og hvem som skal løpe dem.
+Mange i gruppa liker å løpe løp for å teste formen. Under kan du få en oversikt over noen av disse løpene, og hvem som skal løpe dem. Hele oversikten for løp Vidar-løpere planlegger finner du hos [RaceDays](https://www.racedays.run/club/vidar).
 
 <iframe width="100%" height="500px" src="https://www.racedays.run/embed/club-calendar/08fe6cd9-22b2-43ef-4676-08dadc3b55d7" title="Sportsklubben Vidar"></iframe>
 
